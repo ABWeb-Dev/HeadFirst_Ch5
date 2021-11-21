@@ -1,0 +1,14 @@
+C:\Users\natsu\source\repos\ReflectionApp\ReflectionApp\bin\Debug\netcoreapp3.1\ReflectionApp.exe
+C:\Users\natsu\source\repos\ReflectionApp\ReflectionApp\bin\Debug\netcoreapp3.1\ReflectionApp.deps.json
+C:\Users\natsu\source\repos\ReflectionApp\ReflectionApp\bin\Debug\netcoreapp3.1\ReflectionApp.runtimeconfig.json
+C:\Users\natsu\source\repos\ReflectionApp\ReflectionApp\bin\Debug\netcoreapp3.1\ReflectionApp.runtimeconfig.dev.json
+C:\Users\natsu\source\repos\ReflectionApp\ReflectionApp\bin\Debug\netcoreapp3.1\ReflectionApp.dll
+C:\Users\natsu\source\repos\ReflectionApp\ReflectionApp\bin\Debug\netcoreapp3.1\ReflectionApp.pdb
+C:\Users\natsu\source\repos\ReflectionApp\ReflectionApp\obj\Debug\netcoreapp3.1\ReflectionApp.csproj.AssemblyReference.cache
+C:\Users\natsu\source\repos\ReflectionApp\ReflectionApp\obj\Debug\netcoreapp3.1\ReflectionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\source\repos\ReflectionApp\ReflectionApp\obj\Debug\netcoreapp3.1\ReflectionApp.AssemblyInfoInputs.cache
+C:\Users\natsu\source\repos\ReflectionApp\ReflectionApp\obj\Debug\netcoreapp3.1\ReflectionApp.AssemblyInfo.cs
+C:\Users\natsu\source\repos\ReflectionApp\ReflectionApp\obj\Debug\netcoreapp3.1\ReflectionApp.csproj.CoreCompileInputs.cache
+C:\Users\natsu\source\repos\ReflectionApp\ReflectionApp\obj\Debug\netcoreapp3.1\ReflectionApp.dll
+C:\Users\natsu\source\repos\ReflectionApp\ReflectionApp\obj\Debug\netcoreapp3.1\ReflectionApp.pdb
+C:\Users\natsu\source\repos\ReflectionApp\ReflectionApp\obj\Debug\netcoreapp3.1\ReflectionApp.genruntimeconfig.cache

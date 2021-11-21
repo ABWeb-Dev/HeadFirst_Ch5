@@ -1,0 +1,14 @@
+C:\Users\natsu\source\repos\ElephantProgram\ElephantProgram\bin\Debug\netcoreapp3.1\ElephantProgram.exe
+C:\Users\natsu\source\repos\ElephantProgram\ElephantProgram\bin\Debug\netcoreapp3.1\ElephantProgram.deps.json
+C:\Users\natsu\source\repos\ElephantProgram\ElephantProgram\bin\Debug\netcoreapp3.1\ElephantProgram.runtimeconfig.json
+C:\Users\natsu\source\repos\ElephantProgram\ElephantProgram\bin\Debug\netcoreapp3.1\ElephantProgram.runtimeconfig.dev.json
+C:\Users\natsu\source\repos\ElephantProgram\ElephantProgram\bin\Debug\netcoreapp3.1\ElephantProgram.dll
+C:\Users\natsu\source\repos\ElephantProgram\ElephantProgram\bin\Debug\netcoreapp3.1\ElephantProgram.pdb
+C:\Users\natsu\source\repos\ElephantProgram\ElephantProgram\obj\Debug\netcoreapp3.1\ElephantProgram.csproj.AssemblyReference.cache
+C:\Users\natsu\source\repos\ElephantProgram\ElephantProgram\obj\Debug\netcoreapp3.1\ElephantProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\source\repos\ElephantProgram\ElephantProgram\obj\Debug\netcoreapp3.1\ElephantProgram.AssemblyInfoInputs.cache
+C:\Users\natsu\source\repos\ElephantProgram\ElephantProgram\obj\Debug\netcoreapp3.1\ElephantProgram.AssemblyInfo.cs
+C:\Users\natsu\source\repos\ElephantProgram\ElephantProgram\obj\Debug\netcoreapp3.1\ElephantProgram.csproj.CoreCompileInputs.cache
+C:\Users\natsu\source\repos\ElephantProgram\ElephantProgram\obj\Debug\netcoreapp3.1\ElephantProgram.dll
+C:\Users\natsu\source\repos\ElephantProgram\ElephantProgram\obj\Debug\netcoreapp3.1\ElephantProgram.pdb
+C:\Users\natsu\source\repos\ElephantProgram\ElephantProgram\obj\Debug\netcoreapp3.1\ElephantProgram.genruntimeconfig.cache
