@@ -1,0 +1,14 @@
+C:\Users\natsu\source\repos\HiLoApp\HiLoApp\obj\Debug\netcoreapp3.1\HiLoApp.csproj.AssemblyReference.cache
+C:\Users\natsu\source\repos\HiLoApp\HiLoApp\obj\Debug\netcoreapp3.1\HiLoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\source\repos\HiLoApp\HiLoApp\obj\Debug\netcoreapp3.1\HiLoApp.AssemblyInfoInputs.cache
+C:\Users\natsu\source\repos\HiLoApp\HiLoApp\obj\Debug\netcoreapp3.1\HiLoApp.AssemblyInfo.cs
+C:\Users\natsu\source\repos\HiLoApp\HiLoApp\obj\Debug\netcoreapp3.1\HiLoApp.csproj.CoreCompileInputs.cache
+C:\Users\natsu\source\repos\HiLoApp\HiLoApp\bin\Debug\netcoreapp3.1\HiLoApp.exe
+C:\Users\natsu\source\repos\HiLoApp\HiLoApp\bin\Debug\netcoreapp3.1\HiLoApp.deps.json
+C:\Users\natsu\source\repos\HiLoApp\HiLoApp\bin\Debug\netcoreapp3.1\HiLoApp.runtimeconfig.json
+C:\Users\natsu\source\repos\HiLoApp\HiLoApp\bin\Debug\netcoreapp3.1\HiLoApp.runtimeconfig.dev.json
+C:\Users\natsu\source\repos\HiLoApp\HiLoApp\bin\Debug\netcoreapp3.1\HiLoApp.dll
+C:\Users\natsu\source\repos\HiLoApp\HiLoApp\bin\Debug\netcoreapp3.1\HiLoApp.pdb
+C:\Users\natsu\source\repos\HiLoApp\HiLoApp\obj\Debug\netcoreapp3.1\HiLoApp.dll
+C:\Users\natsu\source\repos\HiLoApp\HiLoApp\obj\Debug\netcoreapp3.1\HiLoApp.pdb
+C:\Users\natsu\source\repos\HiLoApp\HiLoApp\obj\Debug\netcoreapp3.1\HiLoApp.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+﻿<Window x:Class="OwensNewSwordDamageWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OwensNewSwordDamageWPF"
+        mc:Ignorable="d"
+        Title="Sword Damage Calculator 2.0" Height="250" Width="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <CheckBox Content="Flaming" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20" Checked="Flaming_Checked" Unchecked="Flaming_Unchecked"/>
+        <CheckBox Content="Magic" Grid.Column="1" HorizontalAlignment="Center" Margin="20" VerticalAlignment="Center" Checked="Magic_Checked" Unchecked="Magic_Unchecked"/>
+        <Button Content="Roll For Damage" Margin="20, 10" Grid.Row="1" Grid.ColumnSpan="2" VerticalAlignment="Top" Click="Button_Click"/>
+        <TextBlock x:Name="damage" Grid.Row="2" Grid.ColumnSpan="2" Text="Damage" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\natsu\source\repos\OwensNewDamageCalculator\OwensNewDamageCalculator\bin\Debug\netcoreapp3.1\OwensNewDamageCalculator.exe
+C:\Users\natsu\source\repos\OwensNewDamageCalculator\OwensNewDamageCalculator\bin\Debug\netcoreapp3.1\OwensNewDamageCalculator.deps.json
+C:\Users\natsu\source\repos\OwensNewDamageCalculator\OwensNewDamageCalculator\bin\Debug\netcoreapp3.1\OwensNewDamageCalculator.runtimeconfig.json
+C:\Users\natsu\source\repos\OwensNewDamageCalculator\OwensNewDamageCalculator\bin\Debug\netcoreapp3.1\OwensNewDamageCalculator.runtimeconfig.dev.json
+C:\Users\natsu\source\repos\OwensNewDamageCalculator\OwensNewDamageCalculator\bin\Debug\netcoreapp3.1\OwensNewDamageCalculator.dll
+C:\Users\natsu\source\repos\OwensNewDamageCalculator\OwensNewDamageCalculator\bin\Debug\netcoreapp3.1\OwensNewDamageCalculator.pdb
+C:\Users\natsu\source\repos\OwensNewDamageCalculator\OwensNewDamageCalculator\obj\Debug\netcoreapp3.1\OwensNewDamageCalculator.csproj.AssemblyReference.cache
+C:\Users\natsu\source\repos\OwensNewDamageCalculator\OwensNewDamageCalculator\obj\Debug\netcoreapp3.1\OwensNewDamageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\source\repos\OwensNewDamageCalculator\OwensNewDamageCalculator\obj\Debug\netcoreapp3.1\OwensNewDamageCalculator.AssemblyInfoInputs.cache
+C:\Users\natsu\source\repos\OwensNewDamageCalculator\OwensNewDamageCalculator\obj\Debug\netcoreapp3.1\OwensNewDamageCalculator.AssemblyInfo.cs
+C:\Users\natsu\source\repos\OwensNewDamageCalculator\OwensNewDamageCalculator\obj\Debug\netcoreapp3.1\OwensNewDamageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\natsu\source\repos\OwensNewDamageCalculator\OwensNewDamageCalculator\obj\Debug\netcoreapp3.1\OwensNewDamageCalculator.dll
+C:\Users\natsu\source\repos\OwensNewDamageCalculator\OwensNewDamageCalculator\obj\Debug\netcoreapp3.1\OwensNewDamageCalculator.pdb
+C:\Users\natsu\source\repos\OwensNewDamageCalculator\OwensNewDamageCalculator\obj\Debug\netcoreapp3.1\OwensNewDamageCalculator.genruntimeconfig.cache
