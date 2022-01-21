@@ -1,0 +1,14 @@
+C:\Users\natsu\source\repos\RandomClassTestsCh4\RandomClassTestsCh4\bin\Debug\netcoreapp3.1\RandomClassTestsCh4.exe
+C:\Users\natsu\source\repos\RandomClassTestsCh4\RandomClassTestsCh4\bin\Debug\netcoreapp3.1\RandomClassTestsCh4.deps.json
+C:\Users\natsu\source\repos\RandomClassTestsCh4\RandomClassTestsCh4\bin\Debug\netcoreapp3.1\RandomClassTestsCh4.runtimeconfig.json
+C:\Users\natsu\source\repos\RandomClassTestsCh4\RandomClassTestsCh4\bin\Debug\netcoreapp3.1\RandomClassTestsCh4.runtimeconfig.dev.json
+C:\Users\natsu\source\repos\RandomClassTestsCh4\RandomClassTestsCh4\bin\Debug\netcoreapp3.1\RandomClassTestsCh4.dll
+C:\Users\natsu\source\repos\RandomClassTestsCh4\RandomClassTestsCh4\bin\Debug\netcoreapp3.1\RandomClassTestsCh4.pdb
+C:\Users\natsu\source\repos\RandomClassTestsCh4\RandomClassTestsCh4\obj\Debug\netcoreapp3.1\RandomClassTestsCh4.csproj.AssemblyReference.cache
+C:\Users\natsu\source\repos\RandomClassTestsCh4\RandomClassTestsCh4\obj\Debug\netcoreapp3.1\RandomClassTestsCh4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\source\repos\RandomClassTestsCh4\RandomClassTestsCh4\obj\Debug\netcoreapp3.1\RandomClassTestsCh4.AssemblyInfoInputs.cache
+C:\Users\natsu\source\repos\RandomClassTestsCh4\RandomClassTestsCh4\obj\Debug\netcoreapp3.1\RandomClassTestsCh4.AssemblyInfo.cs
+C:\Users\natsu\source\repos\RandomClassTestsCh4\RandomClassTestsCh4\obj\Debug\netcoreapp3.1\RandomClassTestsCh4.csproj.CoreCompileInputs.cache
+C:\Users\natsu\source\repos\RandomClassTestsCh4\RandomClassTestsCh4\obj\Debug\netcoreapp3.1\RandomClassTestsCh4.dll
+C:\Users\natsu\source\repos\RandomClassTestsCh4\RandomClassTestsCh4\obj\Debug\netcoreapp3.1\RandomClassTestsCh4.pdb
+C:\Users\natsu\source\repos\RandomClassTestsCh4\RandomClassTestsCh4\obj\Debug\netcoreapp3.1\RandomClassTestsCh4.genruntimeconfig.cache

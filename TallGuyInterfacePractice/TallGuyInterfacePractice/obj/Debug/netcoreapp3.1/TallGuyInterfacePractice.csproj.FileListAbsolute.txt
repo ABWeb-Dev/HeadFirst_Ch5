@@ -1,0 +1,14 @@
+C:\Users\natsu\source\repos\TallGuyInterfacePractice\TallGuyInterfacePractice\bin\Debug\netcoreapp3.1\TallGuyInterfacePractice.exe
+C:\Users\natsu\source\repos\TallGuyInterfacePractice\TallGuyInterfacePractice\bin\Debug\netcoreapp3.1\TallGuyInterfacePractice.deps.json
+C:\Users\natsu\source\repos\TallGuyInterfacePractice\TallGuyInterfacePractice\bin\Debug\netcoreapp3.1\TallGuyInterfacePractice.runtimeconfig.json
+C:\Users\natsu\source\repos\TallGuyInterfacePractice\TallGuyInterfacePractice\bin\Debug\netcoreapp3.1\TallGuyInterfacePractice.runtimeconfig.dev.json
+C:\Users\natsu\source\repos\TallGuyInterfacePractice\TallGuyInterfacePractice\bin\Debug\netcoreapp3.1\TallGuyInterfacePractice.dll
+C:\Users\natsu\source\repos\TallGuyInterfacePractice\TallGuyInterfacePractice\bin\Debug\netcoreapp3.1\TallGuyInterfacePractice.pdb
+C:\Users\natsu\source\repos\TallGuyInterfacePractice\TallGuyInterfacePractice\obj\Debug\netcoreapp3.1\TallGuyInterfacePractice.csproj.AssemblyReference.cache
+C:\Users\natsu\source\repos\TallGuyInterfacePractice\TallGuyInterfacePractice\obj\Debug\netcoreapp3.1\TallGuyInterfacePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\source\repos\TallGuyInterfacePractice\TallGuyInterfacePractice\obj\Debug\netcoreapp3.1\TallGuyInterfacePractice.AssemblyInfoInputs.cache
+C:\Users\natsu\source\repos\TallGuyInterfacePractice\TallGuyInterfacePractice\obj\Debug\netcoreapp3.1\TallGuyInterfacePractice.AssemblyInfo.cs
+C:\Users\natsu\source\repos\TallGuyInterfacePractice\TallGuyInterfacePractice\obj\Debug\netcoreapp3.1\TallGuyInterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\natsu\source\repos\TallGuyInterfacePractice\TallGuyInterfacePractice\obj\Debug\netcoreapp3.1\TallGuyInterfacePractice.dll
+C:\Users\natsu\source\repos\TallGuyInterfacePractice\TallGuyInterfacePractice\obj\Debug\netcoreapp3.1\TallGuyInterfacePractice.pdb
+C:\Users\natsu\source\repos\TallGuyInterfacePractice\TallGuyInterfacePractice\obj\Debug\netcoreapp3.1\TallGuyInterfacePractice.genruntimeconfig.cache

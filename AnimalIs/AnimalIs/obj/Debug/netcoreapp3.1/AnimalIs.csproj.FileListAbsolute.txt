@@ -1,0 +1,14 @@
+C:\Users\natsu\source\repos\AnimalIs\AnimalIs\bin\Debug\netcoreapp3.1\AnimalIs.exe
+C:\Users\natsu\source\repos\AnimalIs\AnimalIs\bin\Debug\netcoreapp3.1\AnimalIs.deps.json
+C:\Users\natsu\source\repos\AnimalIs\AnimalIs\bin\Debug\netcoreapp3.1\AnimalIs.runtimeconfig.json
+C:\Users\natsu\source\repos\AnimalIs\AnimalIs\bin\Debug\netcoreapp3.1\AnimalIs.runtimeconfig.dev.json
+C:\Users\natsu\source\repos\AnimalIs\AnimalIs\bin\Debug\netcoreapp3.1\AnimalIs.dll
+C:\Users\natsu\source\repos\AnimalIs\AnimalIs\bin\Debug\netcoreapp3.1\AnimalIs.pdb
+C:\Users\natsu\source\repos\AnimalIs\AnimalIs\obj\Debug\netcoreapp3.1\AnimalIs.csproj.AssemblyReference.cache
+C:\Users\natsu\source\repos\AnimalIs\AnimalIs\obj\Debug\netcoreapp3.1\AnimalIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\source\repos\AnimalIs\AnimalIs\obj\Debug\netcoreapp3.1\AnimalIs.AssemblyInfoInputs.cache
+C:\Users\natsu\source\repos\AnimalIs\AnimalIs\obj\Debug\netcoreapp3.1\AnimalIs.AssemblyInfo.cs
+C:\Users\natsu\source\repos\AnimalIs\AnimalIs\obj\Debug\netcoreapp3.1\AnimalIs.csproj.CoreCompileInputs.cache
+C:\Users\natsu\source\repos\AnimalIs\AnimalIs\obj\Debug\netcoreapp3.1\AnimalIs.dll
+C:\Users\natsu\source\repos\AnimalIs\AnimalIs\obj\Debug\netcoreapp3.1\AnimalIs.pdb
+C:\Users\natsu\source\repos\AnimalIs\AnimalIs\obj\Debug\netcoreapp3.1\AnimalIs.genruntimeconfig.cache

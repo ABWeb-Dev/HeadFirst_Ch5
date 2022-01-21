@@ -1,0 +1,14 @@
+C:\Users\natsu\source\repos\PlayingCardEx\PlayingCardEx\bin\Debug\netcoreapp3.1\PlayingCardEx.exe
+C:\Users\natsu\source\repos\PlayingCardEx\PlayingCardEx\bin\Debug\netcoreapp3.1\PlayingCardEx.deps.json
+C:\Users\natsu\source\repos\PlayingCardEx\PlayingCardEx\bin\Debug\netcoreapp3.1\PlayingCardEx.runtimeconfig.json
+C:\Users\natsu\source\repos\PlayingCardEx\PlayingCardEx\bin\Debug\netcoreapp3.1\PlayingCardEx.runtimeconfig.dev.json
+C:\Users\natsu\source\repos\PlayingCardEx\PlayingCardEx\bin\Debug\netcoreapp3.1\PlayingCardEx.dll
+C:\Users\natsu\source\repos\PlayingCardEx\PlayingCardEx\bin\Debug\netcoreapp3.1\PlayingCardEx.pdb
+C:\Users\natsu\source\repos\PlayingCardEx\PlayingCardEx\obj\Debug\netcoreapp3.1\PlayingCardEx.csproj.AssemblyReference.cache
+C:\Users\natsu\source\repos\PlayingCardEx\PlayingCardEx\obj\Debug\netcoreapp3.1\PlayingCardEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\source\repos\PlayingCardEx\PlayingCardEx\obj\Debug\netcoreapp3.1\PlayingCardEx.AssemblyInfoInputs.cache
+C:\Users\natsu\source\repos\PlayingCardEx\PlayingCardEx\obj\Debug\netcoreapp3.1\PlayingCardEx.AssemblyInfo.cs
+C:\Users\natsu\source\repos\PlayingCardEx\PlayingCardEx\obj\Debug\netcoreapp3.1\PlayingCardEx.csproj.CoreCompileInputs.cache
+C:\Users\natsu\source\repos\PlayingCardEx\PlayingCardEx\obj\Debug\netcoreapp3.1\PlayingCardEx.dll
+C:\Users\natsu\source\repos\PlayingCardEx\PlayingCardEx\obj\Debug\netcoreapp3.1\PlayingCardEx.pdb
+C:\Users\natsu\source\repos\PlayingCardEx\PlayingCardEx\obj\Debug\netcoreapp3.1\PlayingCardEx.genruntimeconfig.cache

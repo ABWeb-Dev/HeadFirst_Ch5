@@ -1,0 +1,14 @@
+C:\Users\natsu\source\repos\SwordDamageCLIApp\SwordDamageCLIApp\bin\Debug\netcoreapp3.1\SwordDamageCLIApp.exe
+C:\Users\natsu\source\repos\SwordDamageCLIApp\SwordDamageCLIApp\bin\Debug\netcoreapp3.1\SwordDamageCLIApp.deps.json
+C:\Users\natsu\source\repos\SwordDamageCLIApp\SwordDamageCLIApp\bin\Debug\netcoreapp3.1\SwordDamageCLIApp.runtimeconfig.json
+C:\Users\natsu\source\repos\SwordDamageCLIApp\SwordDamageCLIApp\bin\Debug\netcoreapp3.1\SwordDamageCLIApp.runtimeconfig.dev.json
+C:\Users\natsu\source\repos\SwordDamageCLIApp\SwordDamageCLIApp\bin\Debug\netcoreapp3.1\SwordDamageCLIApp.dll
+C:\Users\natsu\source\repos\SwordDamageCLIApp\SwordDamageCLIApp\bin\Debug\netcoreapp3.1\SwordDamageCLIApp.pdb
+C:\Users\natsu\source\repos\SwordDamageCLIApp\SwordDamageCLIApp\obj\Debug\netcoreapp3.1\SwordDamageCLIApp.csproj.AssemblyReference.cache
+C:\Users\natsu\source\repos\SwordDamageCLIApp\SwordDamageCLIApp\obj\Debug\netcoreapp3.1\SwordDamageCLIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\source\repos\SwordDamageCLIApp\SwordDamageCLIApp\obj\Debug\netcoreapp3.1\SwordDamageCLIApp.AssemblyInfoInputs.cache
+C:\Users\natsu\source\repos\SwordDamageCLIApp\SwordDamageCLIApp\obj\Debug\netcoreapp3.1\SwordDamageCLIApp.AssemblyInfo.cs
+C:\Users\natsu\source\repos\SwordDamageCLIApp\SwordDamageCLIApp\obj\Debug\netcoreapp3.1\SwordDamageCLIApp.csproj.CoreCompileInputs.cache
+C:\Users\natsu\source\repos\SwordDamageCLIApp\SwordDamageCLIApp\obj\Debug\netcoreapp3.1\SwordDamageCLIApp.dll
+C:\Users\natsu\source\repos\SwordDamageCLIApp\SwordDamageCLIApp\obj\Debug\netcoreapp3.1\SwordDamageCLIApp.pdb
+C:\Users\natsu\source\repos\SwordDamageCLIApp\SwordDamageCLIApp\obj\Debug\netcoreapp3.1\SwordDamageCLIApp.genruntimeconfig.cache

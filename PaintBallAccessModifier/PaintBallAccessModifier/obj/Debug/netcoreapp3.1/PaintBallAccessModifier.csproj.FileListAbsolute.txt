@@ -1,0 +1,14 @@
+C:\Users\natsu\source\repos\PaintBallAccessModifier\PaintBallAccessModifier\bin\Debug\netcoreapp3.1\PaintBallAccessModifier.exe
+C:\Users\natsu\source\repos\PaintBallAccessModifier\PaintBallAccessModifier\bin\Debug\netcoreapp3.1\PaintBallAccessModifier.deps.json
+C:\Users\natsu\source\repos\PaintBallAccessModifier\PaintBallAccessModifier\bin\Debug\netcoreapp3.1\PaintBallAccessModifier.runtimeconfig.json
+C:\Users\natsu\source\repos\PaintBallAccessModifier\PaintBallAccessModifier\bin\Debug\netcoreapp3.1\PaintBallAccessModifier.runtimeconfig.dev.json
+C:\Users\natsu\source\repos\PaintBallAccessModifier\PaintBallAccessModifier\bin\Debug\netcoreapp3.1\PaintBallAccessModifier.dll
+C:\Users\natsu\source\repos\PaintBallAccessModifier\PaintBallAccessModifier\bin\Debug\netcoreapp3.1\PaintBallAccessModifier.pdb
+C:\Users\natsu\source\repos\PaintBallAccessModifier\PaintBallAccessModifier\obj\Debug\netcoreapp3.1\PaintBallAccessModifier.csproj.AssemblyReference.cache
+C:\Users\natsu\source\repos\PaintBallAccessModifier\PaintBallAccessModifier\obj\Debug\netcoreapp3.1\PaintBallAccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\source\repos\PaintBallAccessModifier\PaintBallAccessModifier\obj\Debug\netcoreapp3.1\PaintBallAccessModifier.AssemblyInfoInputs.cache
+C:\Users\natsu\source\repos\PaintBallAccessModifier\PaintBallAccessModifier\obj\Debug\netcoreapp3.1\PaintBallAccessModifier.AssemblyInfo.cs
+C:\Users\natsu\source\repos\PaintBallAccessModifier\PaintBallAccessModifier\obj\Debug\netcoreapp3.1\PaintBallAccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\natsu\source\repos\PaintBallAccessModifier\PaintBallAccessModifier\obj\Debug\netcoreapp3.1\PaintBallAccessModifier.dll
+C:\Users\natsu\source\repos\PaintBallAccessModifier\PaintBallAccessModifier\obj\Debug\netcoreapp3.1\PaintBallAccessModifier.pdb
+C:\Users\natsu\source\repos\PaintBallAccessModifier\PaintBallAccessModifier\obj\Debug\netcoreapp3.1\PaintBallAccessModifier.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\natsu\source\repos\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.exe
+C:\Users\natsu\source\repos\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.deps.json
+C:\Users\natsu\source\repos\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.runtimeconfig.json
+C:\Users\natsu\source\repos\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.runtimeconfig.dev.json
+C:\Users\natsu\source\repos\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.dll
+C:\Users\natsu\source\repos\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.pdb
+C:\Users\natsu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.csproj.AssemblyReference.cache
+C:\Users\natsu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.AssemblyInfoInputs.cache
+C:\Users\natsu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.AssemblyInfo.cs
+C:\Users\natsu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.csproj.CoreCompileInputs.cache
+C:\Users\natsu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.dll
+C:\Users\natsu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.pdb
+C:\Users\natsu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.genruntimeconfig.cache

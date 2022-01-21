@@ -1,0 +1,14 @@
+C:\Users\natsu\source\repos\GuyApp\GuyApp\bin\Debug\netcoreapp3.1\GuyApp.exe
+C:\Users\natsu\source\repos\GuyApp\GuyApp\bin\Debug\netcoreapp3.1\GuyApp.deps.json
+C:\Users\natsu\source\repos\GuyApp\GuyApp\bin\Debug\netcoreapp3.1\GuyApp.runtimeconfig.json
+C:\Users\natsu\source\repos\GuyApp\GuyApp\bin\Debug\netcoreapp3.1\GuyApp.runtimeconfig.dev.json
+C:\Users\natsu\source\repos\GuyApp\GuyApp\bin\Debug\netcoreapp3.1\GuyApp.dll
+C:\Users\natsu\source\repos\GuyApp\GuyApp\bin\Debug\netcoreapp3.1\GuyApp.pdb
+C:\Users\natsu\source\repos\GuyApp\GuyApp\obj\Debug\netcoreapp3.1\GuyApp.csproj.AssemblyReference.cache
+C:\Users\natsu\source\repos\GuyApp\GuyApp\obj\Debug\netcoreapp3.1\GuyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\source\repos\GuyApp\GuyApp\obj\Debug\netcoreapp3.1\GuyApp.AssemblyInfoInputs.cache
+C:\Users\natsu\source\repos\GuyApp\GuyApp\obj\Debug\netcoreapp3.1\GuyApp.AssemblyInfo.cs
+C:\Users\natsu\source\repos\GuyApp\GuyApp\obj\Debug\netcoreapp3.1\GuyApp.csproj.CoreCompileInputs.cache
+C:\Users\natsu\source\repos\GuyApp\GuyApp\obj\Debug\netcoreapp3.1\GuyApp.dll
+C:\Users\natsu\source\repos\GuyApp\GuyApp\obj\Debug\netcoreapp3.1\GuyApp.pdb
+C:\Users\natsu\source\repos\GuyApp\GuyApp\obj\Debug\netcoreapp3.1\GuyApp.genruntimeconfig.cache

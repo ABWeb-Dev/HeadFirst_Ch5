@@ -1,0 +1,14 @@
+C:\Users\natsu\source\repos\ComicLinq\ComicLinq\bin\Debug\netcoreapp3.1\ComicLinq.exe
+C:\Users\natsu\source\repos\ComicLinq\ComicLinq\bin\Debug\netcoreapp3.1\ComicLinq.deps.json
+C:\Users\natsu\source\repos\ComicLinq\ComicLinq\bin\Debug\netcoreapp3.1\ComicLinq.runtimeconfig.json
+C:\Users\natsu\source\repos\ComicLinq\ComicLinq\bin\Debug\netcoreapp3.1\ComicLinq.runtimeconfig.dev.json
+C:\Users\natsu\source\repos\ComicLinq\ComicLinq\bin\Debug\netcoreapp3.1\ComicLinq.dll
+C:\Users\natsu\source\repos\ComicLinq\ComicLinq\bin\Debug\netcoreapp3.1\ComicLinq.pdb
+C:\Users\natsu\source\repos\ComicLinq\ComicLinq\obj\Debug\netcoreapp3.1\ComicLinq.csproj.AssemblyReference.cache
+C:\Users\natsu\source\repos\ComicLinq\ComicLinq\obj\Debug\netcoreapp3.1\ComicLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\source\repos\ComicLinq\ComicLinq\obj\Debug\netcoreapp3.1\ComicLinq.AssemblyInfoInputs.cache
+C:\Users\natsu\source\repos\ComicLinq\ComicLinq\obj\Debug\netcoreapp3.1\ComicLinq.AssemblyInfo.cs
+C:\Users\natsu\source\repos\ComicLinq\ComicLinq\obj\Debug\netcoreapp3.1\ComicLinq.csproj.CoreCompileInputs.cache
+C:\Users\natsu\source\repos\ComicLinq\ComicLinq\obj\Debug\netcoreapp3.1\ComicLinq.dll
+C:\Users\natsu\source\repos\ComicLinq\ComicLinq\obj\Debug\netcoreapp3.1\ComicLinq.pdb
+C:\Users\natsu\source\repos\ComicLinq\ComicLinq\obj\Debug\netcoreapp3.1\ComicLinq.genruntimeconfig.cache

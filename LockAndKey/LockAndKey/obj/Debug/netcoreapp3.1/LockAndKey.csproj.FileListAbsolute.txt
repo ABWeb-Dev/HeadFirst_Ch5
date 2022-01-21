@@ -1,0 +1,14 @@
+C:\Users\natsu\source\repos\LockAndKey\LockAndKey\bin\Debug\netcoreapp3.1\LockAndKey.exe
+C:\Users\natsu\source\repos\LockAndKey\LockAndKey\bin\Debug\netcoreapp3.1\LockAndKey.deps.json
+C:\Users\natsu\source\repos\LockAndKey\LockAndKey\bin\Debug\netcoreapp3.1\LockAndKey.runtimeconfig.json
+C:\Users\natsu\source\repos\LockAndKey\LockAndKey\bin\Debug\netcoreapp3.1\LockAndKey.runtimeconfig.dev.json
+C:\Users\natsu\source\repos\LockAndKey\LockAndKey\bin\Debug\netcoreapp3.1\LockAndKey.dll
+C:\Users\natsu\source\repos\LockAndKey\LockAndKey\bin\Debug\netcoreapp3.1\LockAndKey.pdb
+C:\Users\natsu\source\repos\LockAndKey\LockAndKey\obj\Debug\netcoreapp3.1\LockAndKey.csproj.AssemblyReference.cache
+C:\Users\natsu\source\repos\LockAndKey\LockAndKey\obj\Debug\netcoreapp3.1\LockAndKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natsu\source\repos\LockAndKey\LockAndKey\obj\Debug\netcoreapp3.1\LockAndKey.AssemblyInfoInputs.cache
+C:\Users\natsu\source\repos\LockAndKey\LockAndKey\obj\Debug\netcoreapp3.1\LockAndKey.AssemblyInfo.cs
+C:\Users\natsu\source\repos\LockAndKey\LockAndKey\obj\Debug\netcoreapp3.1\LockAndKey.csproj.CoreCompileInputs.cache
+C:\Users\natsu\source\repos\LockAndKey\LockAndKey\obj\Debug\netcoreapp3.1\LockAndKey.dll
+C:\Users\natsu\source\repos\LockAndKey\LockAndKey\obj\Debug\netcoreapp3.1\LockAndKey.pdb
+C:\Users\natsu\source\repos\LockAndKey\LockAndKey\obj\Debug\netcoreapp3.1\LockAndKey.genruntimeconfig.cache

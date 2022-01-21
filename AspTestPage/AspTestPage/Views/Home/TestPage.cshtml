@@ -1,0 +1,81 @@
+﻿@{
+    ViewData["Title"] = "Test Page";
+}
+
+<body>
+    <table class="table table-striped table-bordered table-hover">
+        <thead>
+            <tr><th>Department</th><th>Phone Number</th><th>Extension</th></tr>
+        </thead>
+        <tbody>
+            <tr><td>General</td><td>555-555-5555</td><td>1</td></tr>
+            <tr><td>Customer Service</td><td>555-555-5556</td><td>2</td></tr>
+            <tr><td>Billing and Accounts</td><td>555-555-5557</td><td>3</td></tr>
+        </tbody>
+    </table>
+
+    <div>
+        <p class="text-right">This text is right-aligned.</p>
+        <p class="text-center">This text is centered.</p>
+        <p class="text-left">This text is left-aligned.</p>
+    </div>
+
+    <button class="btn-primary">Primary</button>
+    <button class="btn-secondary">Secondary</button>
+    <button class="btn-success">Success</button>
+    <button class="btn-info">Info</button>
+    <button class="btn-warning">Warning</button>
+    <button class="btn-danger">Danger</button>
+
+    <p class="text-success">Congratulations! You are now registered.</p>
+
+    <p class="bg-warning p-2 rounded">
+        Warning! Some required fields are empty.
+    </p>
+
+    <div class="btn-group" role="group" aria-label="Button group">
+        <a href="/" class="btn btn-outline-primary"><span class="fas fa-home"></span>&nbsp;Home</a>
+        <a href="/cart" class="btn btn-outline-primary"><span class="fas fa-shopping-cart"></span>&nbsp;Cart&nbsp;<span class="badge badge-primary">2</span></a>
+        <a href="/products" class="btn btn-outline-primary">Products</a>
+        <a href="/contact-us" class="btn btn-outline-primary">Contact Us</a>
+    </div>
+
+    <div class="btn-toolbar" role="toolbar" aria-label="Toolbar with groups">
+        <div class="btn-group mr-2">
+            <a href="/" class="btn btn-outline-primary">Home</a>
+            <a href="/cart" class="btn btn-outline-primary">Cart</a>
+        </div>
+        <div class="btn-group" role="group" aria-label="Second group">
+            <a href="/products" class="btn btn-outline-primary">Products</a>
+            <a href="/contact-us" class="btn btn-outline-primary">Contact Us</a>
+        </div>
+    </div>
+
+    <div class="dropdown">
+        <button type ="button" class="btn btn-primary dropdown-toggle" id="productsDropdown" data-toggle="dropdown"
+                aria-haspopup="false" aria-expanded="false">
+            Products
+        </button>
+        <div class="dropdown-menu" aria-labelledby="producstDropdown">
+            <a class="dropdown-item" href="/product/list/guitars">Guitars</a>
+            <a class="dropdown-item" href="/product/list/drums">Drums</a>
+    </div>
+
+        <ul class="list-group">
+            <li class="list-group-item">Guitars</li>
+            <li class="list-group-item">Basses</li>
+            <li class="list-group-item">Drums</li>
+        </ul>
+
+        <div class="list-group">
+            <a href="/guitars" class="list-group-item active">Guitars</a>
+            <a href="/basses" class="list-group-item">Basses</a>
+            <a href="/drums" class="list-group-item">Drums</a>
+        </div>
+
+        <div class="alert alert-success alert-dismissible">
+            <button class="close" data-dismiss="alert">&times;</button>
+            Success! <a href="#" class="alert-link">Learn More!</a>
+        </div>
+
+</body>
